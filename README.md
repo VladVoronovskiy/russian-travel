@@ -20,4 +20,4 @@
 
 **Проект**
 
-* [Ссылка на проект]()
+* [Ссылка на проект](https://vladvoronovskiy.github.io/russian-travel/index.html)
