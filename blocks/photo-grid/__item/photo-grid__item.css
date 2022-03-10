@@ -1,0 +1,13 @@
+.photo-grid__item {
+  max-width: 100%;
+}
+
+.places {
+  display: grid;
+  grid-template-rows: min-content;
+  grid-auto-rows: min-content;
+  max-width: 984px;
+  margin: auto;
+  padding-top: 92px;
+  gap: 80px;
+}
