@@ -5,6 +5,9 @@
   grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
   column-gap: 40px;
   row-gap: 48px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,7 +24,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 430px) {
   .place {
     grid-template-columns: minmax(min-content, 288px);
     gap: 32px;

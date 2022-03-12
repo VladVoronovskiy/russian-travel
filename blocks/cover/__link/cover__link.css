@@ -1,3 +1,16 @@
 .cover__link {
   text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  position: relative;
+  min-height: inherit;
+  width: 100%;
+}
+
+.cover__link:hover {
+  background-color: #000;
+  opacity: 80%;
 }
